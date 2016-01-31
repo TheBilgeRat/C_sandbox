@@ -1,0 +1,4 @@
+# .gitignore for C_sandbox
+
+# Any compile output wherever it may be
+*.[out]
